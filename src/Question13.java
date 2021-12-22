@@ -21,10 +21,6 @@ public class Question13 {
 
 		System.out.println("Check if a>0 :" + (a > 0));
 
-		// OR
-
-		boolean isA = true;
-		System.out.println("Check if a>0 :" + isA);
 
 	}
 
